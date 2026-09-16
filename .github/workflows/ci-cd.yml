@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{younesse-dz}}:latest
+          tags: ghcr.io/younesse-dz/td-agile-frontend:latest
